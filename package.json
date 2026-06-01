@@ -1,0 +1,19 @@
+{
+  "name": "com.hbjeletich.profilelathe",
+  "version": "1.0.0",
+  "displayName": "Profile Lathe",
+  "description": "An editor tool for generating solids of revolution (vases, goblets, bottles, chess pieces) from a hand-drawn 2D cross-section. Draw a profile curve, revolve it into a watertight mesh, bake procedural surface relief, and export mesh, material, and prefab. Open from Tools > Profile Lathe.",
+  "unity": "2020.2",
+  "keywords": [
+    "mesh",
+    "procedural",
+    "lathe",
+    "editor-tool",
+    "modeling"
+  ],
+  "author": {
+    "name": "Helena Bjeletich",
+    "url": "https://github.com/hbjeletich"
+  },
+  "license": "MIT"
+}
