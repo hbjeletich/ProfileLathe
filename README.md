@@ -63,11 +63,11 @@ get clean engine-native assets out the other end with no round trip.
 2. Click **+** ▸ **Add package from git URL…**
 3. Paste:
    ```
-   https://github.com/yourname/ProfileLathe.git
+   https://github.com/hbjeletich/ProfileLathe.git
    ```
 4. To lock to a specific release instead of the latest commit, append a tag:
    ```
-   https://github.com/yourname/ProfileLathe.git#v1.0.0
+   https://github.com/hbjeletich/ProfileLathe.git#v1.0.0
    ```
 
 Requires the Git executable to be installed and on your `PATH`.
