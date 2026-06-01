@@ -13,7 +13,7 @@ Open it from **Tools ▸ Profile Lathe**.
      │  profile point on the left, solid updating live on the right. │
      │  A GIF sells this far better than a still. ~10s loop.         │
      └─────────────────────────────────────────────────────────────┘ -->
-![Profile Lathe — profile editor and live preview](Documentation~/hero.gif)
+![Profile Lathe — profile editor and live preview](Documentation/hero.gif)
 
 ---
 
@@ -53,7 +53,7 @@ get clean engine-native assets out the other end with no round trip.
      the flute relief close-up, a partial-sweep cutaway. A gallery row. -->
 | Vase | Goblet | Fluted column |
 |---|---|---|
-| ![](Documentation~/vase.png) | ![](Documentation~/goblet.png) | ![](Documentation~/flutes.png) |
+| ![](Documentation/vase.png) | ![](Documentation/goblet.png) | ![](Documentation/flutes.png) |
 
 ## Installation
 
