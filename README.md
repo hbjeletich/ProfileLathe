@@ -51,7 +51,7 @@ get clean engine-native assets out the other end with no round trip.
 
 <!-- REPLACE: 3–4 small screenshots — a few exported shapes in a scene,
      the flute relief close-up, a partial-sweep cutaway. A gallery row. -->
-| Vase | Goblet | Fluted column |
+| Vase | Goblet | Fluted bottle |
 |---|---|---|
 | ![](Documentation/vase.png) | ![](Documentation/goblet.png) | ![](Documentation/flutes.png) |
 
